@@ -1,1 +1,1 @@
-# bjerckeblogg
+# Bjerckeblog v1.0
