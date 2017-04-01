@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="Bjercke Media">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="Bjercke Media" uploadOnCheckin="22e224c7-bc4a-4c15-a735-cd9e16ada016" autoUploadExternalChanges="true">
     <serverData>
       <paths name="Bjercke Media">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Bjercke Media" />
     <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>

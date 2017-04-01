@@ -59,7 +59,6 @@ $theme_options = blog_lite_theme_options(); ?>
 
 			                    <?php if( 0 == $theme_options['scroll_top'] ){ ?>
 				                    <div class="go-to-top">
-				                        <a href="#" class="go-to-top-link"> <i class="fa fa-angle-up"></i><br><?php esc_html_e('Back To Top', 'blog-lite'); ?></a>
 				                    </div><!-- .go-to-top -->
 			                    <?php } ?>
 
